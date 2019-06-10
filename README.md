@@ -27,4 +27,4 @@ npm run e2e
 npm test
 ```
 
-![map](D:\seer\map.png)
+![map](https://github.com/zhangyugeng/echart-arcgis-demo/blob/master/image/map.png)
